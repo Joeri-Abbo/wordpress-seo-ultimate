@@ -1,0 +1,14 @@
+{
+    "name": "joeri-abbo/wordpress-seo-ultimate",
+    "type": "wordpress-plugin",
+    "description": "The magical plugin to glue Yoast and acf.",
+    "keywords": ["wp", "wp-plugin", "plugin"],
+    "authors": [
+        {
+            "name":     "Joeri Abbo",
+            "email":    "joeriabbo@hotmail.com",
+            "homepage": "https://nl.linkedin.com/in/joeri-abbo-43a457144",
+            "role":     "Developer"
+        }
+    ]
+}
